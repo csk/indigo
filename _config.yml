@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: http://csk.github.io
+url: https://csk.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -112,3 +112,6 @@ plugins:
 
 jekyll-mentions:
     base_url: https://github.com
+
+# DISABLE if using jekyll server!
+force_https: true
