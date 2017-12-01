@@ -36,6 +36,8 @@ disqus: false
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
+gpg_fingerprint: '3BBC 0D57 1459 F828 F50E  97EB 8C55 8374 8875 1225'
+gpg_key: csk-publickey.txt
 twitter: conradsteink
 # google: mygoogle
 # instagram: myinstagram
